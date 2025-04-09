@@ -15,5 +15,5 @@ $$
 Therefore, continuity yields 
 
 $$
-I(p_x) = I((1/2)^{-log_2(p_x)}) = -log_2(p_x)I(1/2)
+I(p_x) = I((\frac{1}{2})^{-log_2(p_x)}) = -log_2(p_x)I(\frac{1}{2})
 $$
