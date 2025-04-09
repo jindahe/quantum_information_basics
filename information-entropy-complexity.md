@@ -12,3 +12,8 @@ $$
 I(p_x^r)=rI(p_x)
 $$
 
+Therefore, continuity yields 
+
+$$
+I(p_x) = I((1/2)^{-log_2(p_x)}) = -log_2(p_x)I(1/2)
+$$
