@@ -20,4 +20,4 @@ $$
 
 ## Definition
 
-**if X is a random varible over a set of events x such that event x occurs with probability $p_x$, then the Shannon entropy of event x is $-\rm {log}_2(p_x)$.**
+**if X is a random varible over a set of events x such that event x occurs with probability $p_x$, then the Shannon entropy of event x is $-{\rm {log}}_2(p_x)$.**
