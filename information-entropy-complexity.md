@@ -8,8 +8,6 @@ and Y.
 
 Due to the additivity, for any rational r = s/t, 
 $$
-
 I(p_x^r)=rI(p_x)
-
-$$ 
+$$
 
